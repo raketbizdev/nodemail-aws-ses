@@ -22,6 +22,7 @@ First, you need to set up your AWS credentials in a `.env` file or through envir
   AWS_ACCESS_KEY_ID=your_access_key
   AWS_SECRET_ACCESS_KEY=your_secret_access_key
   AWS_REGION=your_aws_region
+  SENDER_EMAIL=yourmail@domain.com
 ```
 
 ### Basic Example
