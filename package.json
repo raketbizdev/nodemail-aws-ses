@@ -1,6 +1,6 @@
 {
   "name": "nodemail-aws-ses",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "nodemail-aws-ses is a Node.js package that provides a simple and easy way to send emails using Amazon SES (Simple Email Service). It provides an EmailSender class that takes care of sending emails using the AWS SDK, with options for both HTML and text emails.",
   "main": "index.js",
   "scripts": {
