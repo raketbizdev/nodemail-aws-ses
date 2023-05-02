@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.2 - 2023-05-02
+
+### Changed
+
+Updated README.md to include usage instructions for sending emails using the EmailSender class with either HTML or text content.
+
 ## 1.0.1 - 2023-06-02
 
 ### Added
