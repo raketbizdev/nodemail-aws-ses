@@ -1,6 +1,6 @@
-# nodemail-aws-ses
+# Nodemail AWS SES
 
-A simple Node.js package for sending emails using AWS SES (Simple Email Service) with a focus on Object-Oriented Programming (OOP) and the DRY (Don't Repeat Yourself) principle.
+Nodemail AWS SES is a Node.js package that provides a simple and easy way to send emails using Amazon SES (Simple Email Service). It provides an EmailSender class that takes care of sending emails using the AWS SDK, with options for both HTML and text emails.
 
 ## Prerequisites
 
